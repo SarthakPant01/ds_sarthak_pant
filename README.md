@@ -17,3 +17,6 @@ using Hyperliquid trading data and the Bitcoin Fear & Greed Index.
 
 ### Tools
 Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
+
+## Google Colab File link:
+https://colab.research.google.com/drive/1z2JtLf7_uMySuoNftVMyem61LZFm3WtF?usp=sharing
