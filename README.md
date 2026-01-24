@@ -92,7 +92,10 @@ Daily market sentiment classified as:
 - Built an end-to-end analytics pipeline for trading behavior analysis
 - Identified sentiment-driven performance and risk patterns
 - Delivered insights aligned with real-world trading decision-making
+  
 
+## Colab notebook Link
+https://colab.research.google.com/drive/1KOFohOdy_B81Dn-YogK14lpDbwsJ4cNI?usp=sharing
 
 
 ##  Author
